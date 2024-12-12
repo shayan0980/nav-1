@@ -1,0 +1,15 @@
+.container{
+    list-style: none;
+    background-color: black;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+
+}
